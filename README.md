@@ -14,11 +14,12 @@
 ```javascript
 const githubProfile = {
   "age": 30,
-  "occupation": "Frontend and Backend Developer + Scrum Master",
+  "occupation": "Frontend and Backend Developer",
   "origin": "México",
   "experience": {
     "programmer": "+4 years of job experience as Programmer",
-    "scrumMaster": "+2 years of experience as Scrum Master"
+    "tech lead": "+2 years of job experience as Programmer",
+    "scrum master": "+1 years of experience as Scrum Master"
   },
   "interests": [
     "Web Development",
