@@ -18,7 +18,7 @@ const githubProfile = {
   "origin": "México",
   "experience": {
     "programmer": "+4 years of job experience as Programmer",
-    "tech lead": "+2 years of job experience as Programmer",
+    "tech lead": "+2 years of job experience as tech lead",
     "scrum master": "+1 years of experience as Scrum Master"
   },
   "interests": [
